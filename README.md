@@ -1,3 +1,6 @@
+# About
+
+Basic Qt-CMake Hello world project.
 
 ## How to Build
 
