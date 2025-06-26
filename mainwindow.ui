@@ -11,16 +11,16 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>Qt/Cmake Hello World</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QWidget" name="horizontalLayoutWidget">
     <property name="geometry">
      <rect>
       <x>30</x>
-      <y>80</y>
-      <width>341</width>
-      <height>331</height>
+      <y>10</y>
+      <width>751</width>
+      <height>521</height>
      </rect>
     </property>
     <layout class="QHBoxLayout" name="horizontalLayout">
